@@ -1,4 +1,5 @@
 ### Hi there 👋, Hey, Iam Niloy Debnath
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 #### Full-stack developer who turns ideas into high-performing products.
 ![Full-stack developer who turns ideas into high-performing products.](https://github.com/niloy-debnath/niloy-debnath/blob/main/github-header-banner.png)
 
