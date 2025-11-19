@@ -1,4 +1,4 @@
-![Banner](./Template 9.png)
+![Banner](./github-bg.png)
 
 
 <h1 align="center">Hi 👋, I'm Niloy Debnath</h1>
