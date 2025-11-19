@@ -26,6 +26,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev)
 
+<h3 align="left">JavaScript Frameworks & Libraries:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://skillicons.dev)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy-debnath&show_icons=true&locale=en&layout=compact" alt="niloy-debnath" /></p>
 
 
