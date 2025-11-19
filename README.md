@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+FullStack+Developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - 📫 How to reach me **niloydebnathofficial@gmail.com** 
 
