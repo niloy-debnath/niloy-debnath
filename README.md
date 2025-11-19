@@ -21,11 +21,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,cpp)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy-debnath&show_icons=true&locale=en&layout=compact" alt="niloy-debnath" /></p>
 
 <h3 align="left">CSS Frameworks & Libraries:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)](https://skillicons.dev)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy-debnath&show_icons=true&locale=en&layout=compact" alt="niloy-debnath" /></p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy-debnath&show_icons=true&locale=en&layout=compact" alt="niloy-debnath" /></p>
 
