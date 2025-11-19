@@ -5,8 +5,11 @@
 
 
 
-- 📫 How to reach me **niloydebnathofficial@gmail.com**
+- 📫 How to reach me **niloydebnathofficial@gmail.com** 
+<div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+FullStack+Developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/-niloy-debnath-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-niloy-debnath-" height="30" width="40" /></a>
