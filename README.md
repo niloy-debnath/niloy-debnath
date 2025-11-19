@@ -2,6 +2,8 @@
 <h3 align="center"></h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer+from+Bangladesh;Code+my+imagination)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 📫 How to reach me **niloydebnathofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
