@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+FullStack+Developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h3 align="left">Language I prefer:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,cpp)](https://skillicons.dev)
 
 - 📫 How to reach me **niloydebnathofficial@gmail.com** 
 
