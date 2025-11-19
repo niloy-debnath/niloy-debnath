@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niloy Debnath</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)
 
 
 
