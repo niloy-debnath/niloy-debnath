@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+++from+Bangladesh;Code+my+imagination)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer;Coding+my+imagination+in+VSCode)](https://git.io/typing-svg)
 
 - 📫 How to reach me **niloydebnathofficial@gmail.com**
 
