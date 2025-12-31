@@ -10,6 +10,11 @@
 
 - 📫 How to reach me **niloydebnathofficial@gmail.com**
 
+ **Current Activities** :
+ - Currently working with SQL
+ - Creating a Admission Website for the outgoing students
+
+
 
 
 <h3 align="left">Connect with me:</h3>
