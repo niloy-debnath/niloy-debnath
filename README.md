@@ -48,6 +48,7 @@
 <a href="https://www.youtube.com/c/@niloytutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@niloytutorials" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niloy-debnath)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloy-debnath&show_icons=true&locale=en&layout=compact" alt="niloy-debnath" /></p>
 
